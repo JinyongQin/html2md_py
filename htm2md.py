@@ -4,6 +4,7 @@ htm2md.py
 依赖：BeautifulSoup4, lxml
 使用方法：
 python htm2md.py <input_file.htm> <output_file.md>
+注意：根据网页特点在post_process_markdown配置去除的行数也可以不处理
 """
 
 
